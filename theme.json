@@ -1,9 +1,9 @@
 {
   "name": "Midnight Anime Sky",
-  "description": "Custom Midnight Purple theme with character background (Vibrant Mobile)",
+  "description": "Custom Midnight Purple theme with character background",
   "authors": [
     {
-      "name": "slxxpy",
+      "name": "Salim",
       "id": "0"
     }
   ],
@@ -43,33 +43,6 @@
     "BG_BASE_PRIMARY": ["#141230"],
     "BG_BASE_SECONDARY": ["#1D1942"],
     "BG_BASE_TERTIARY": ["#100E26"]
-  },
-  "rawColors": {
-    "BRAND_500": "#99283B",
-    "BRAND_560": "#B53047",
-    "PRIMARY_100": "#E6E2F5",
-    "PRIMARY_200": "#C2BDDE",
-    "PRIMARY_300": "#A5A0C0",
-    "PRIMARY_400": "#7D789B",
-    "PRIMARY_500": "#423D66",
-    "PRIMARY_600": "#141230",
-    "PRIMARY_630": "#1D1942",
-    "PRIMARY_660": "#1A163B",
-    "PRIMARY_700": "#100E26",
-    "PRIMARY_800": "#0C0A1F",
-    "PRIMARY_900": "#080614"
-  },
-  "background": {
-    "url": "https://raw.githubusercontent.com/AlilSnake/images/8581667885c816da2ecbba0ccd3acfc0f8b6a60b/01-explorer_R1ZJSYENmU.png",
-    "alpha": 0.55,
-    "blur": 0
-  }
-}
-    "CHANNELS_DEFAULT": ["#A5A0C0"],
-    "CHAT_BACKGROUND": ["#141230"],
-    
-    "CARD_PRIMARY_BG": ["rgba(34, 26, 66, 0.65)"],
-    "CARD_SECONDARY_BG": ["rgba(20, 18, 48, 0.75)"]
   },
   "rawColors": {
     "BRAND_500": "#99283B",
