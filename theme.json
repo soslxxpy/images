@@ -1,6 +1,6 @@
 {
-"name": "Midnight Crimson",
-"description": "Custom Midnight Purple and Crimson theme for Kettu",
+"name": "Midnight Anime Sky",
+"description": "Custom Midnight Purple theme with character background",
 "authors": [
 {
 "name": "Salim",
@@ -17,34 +17,29 @@
 "INTERACTIVE_NORMAL": ["#A5A0C0"],
 "INTERACTIVE_HOVER": ["#E6E2F5"],
 "INTERACTIVE_ACTIVE": ["#99283B"],
-"INTERACTIVE_MUTED": ["#423D66"],
 "BACKGROUND_PRIMARY": ["#141230"],
-"BACKGROUND_SECONDARY": ["#1D1942"],
-"BACKGROUND_SECONDARY_ALT": ["#100E26"],
+"BACKGROUND_SECONDARY": ["rgba(29, 25, 66, 0.7)"],
+"BACKGROUND_SECONDARY_ALT": ["rgba(16, 14, 38, 0.8)"],
 "BACKGROUND_TERTIARY": ["#100E26"],
 "BACKGROUND_ACCENT": ["#99283B"],
 "BACKGROUND_FLOATING": ["#1D1942"],
 "BACKGROUND_MOBILE_PRIMARY": ["#141230"],
-"BACKGROUND_MOBILE_SECONDARY": ["#1D1942"],
-"BACKGROUND_MESSAGE_HOVER": ["#1D1942"],
+"BACKGROUND_MOBILE_SECONDARY": ["rgba(29, 25, 66, 0.75)"],
+"BACKGROUND_MESSAGE_HOVER": ["rgba(153, 40, 59, 0.1)"],
 "BACKGROUND_MODIFIER_HOVER": ["rgba(153, 40, 59, 0.15)"],
 "BACKGROUND_MODIFIER_ACTIVE": ["rgba(153, 40, 59, 0.3)"],
 "BACKGROUND_MODIFIER_SELECTED": ["#99283B"],
-"CHANNELTEXTAREA_BACKGROUND": ["#1D1942"],
-"CHANNELS_DEFAULT": ["#A5A0C0"],
+"CHANNELTEXTAREA_BACKGROUND": ["rgba(29, 25, 66, 0.85)"],
 "CHAT_BACKGROUND": ["#141230"]
 },
 "rawColors": {
 "BRAND_500": "#99283B",
-"BRAND_560": "#B53047",
 "PRIMARY_600": "#141230",
-"PRIMARY_630": "#1D1942",
-"PRIMARY_700": "#100E26",
-"PRIMARY_800": "#0C0A1F"
+"PRIMARY_630": "#1D1942"
 },
 "background": {
-"url": "",
-"alpha": 1.0,
+"url": "https://raw.githubusercontent.com/AlilSnake/images/8581667885c816da2ecbba0ccd3acfc0f8b6a60b/01-explorer_R1ZJSYENmU.png",
+"alpha": 0.45,
 "blur": 0
 }
 }
